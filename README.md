@@ -3,6 +3,8 @@ Sickle Cell pre-transfusion testing policies
 
 Intended to be mostly the same as this OSF project: https://osf.io/9p46d/overview
 
+Also see this file that unpacks SCD_survival.zip and processes the data, giving various csv files which are also uploaded here: https://colab.research.google.com/drive/1aqr9lQIEx18PB6OpdhzFkMHMcNn6bCQ6?usp=sharing
+
 The article
 
 Boshen Jiao, Kate M. Johnson, Scott D. Ramsey, M. A. Bender, Beth Devine, Anirban Basu; Long-term survival with sickle cell disease: a nationwide cohort study of Medicare and Medicaid beneficiaries. Blood Adv 2023; 7 (13): 3276–3283. doi: https://doi.org/10.1182/bloodadvances.2022009202
